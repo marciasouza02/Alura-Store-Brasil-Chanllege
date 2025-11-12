@@ -83,6 +83,14 @@ A **Loja 1**, por outro lado, demonstra **recuperação de crescimento**, **maio
 - **Google Colab** (como IDE para analise do dataframe)
 - **GitHub** (armazenamento e versionamento do projeto)
 
+---
+
+## Minhas maiores dificuldades:
+
+- Desenvolvimento dos códigos para plotar os gráfico, incluir rótulo, modificar cores.
+
+Para vencer essas dificuldades pesquisei no google, assisti videos no You Tube e retornei algumas aulas da plataforma da Alura. 
+Acredito com esse challenge evolui bastante com python, desenvolvi uma maior analise critica e consegui mostrar bem o desenvolvimento e analise das métricas.
 
 ---
 
